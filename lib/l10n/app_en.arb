@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "appTitle": "My App",
+  "welcomeMessage": "Welcome to My App",
+  "login": "Login",
+  "signIn": "Sign In",
+  "email": "Email",
+  "password": "Password",
+  "forgotPassword": "Forgot Password?",
+  "lastName": "Last Name",
+  "firstName": "First Name",
+  "phone": "Phone Number",
+  "gender": "Gender",
+  "password": "Password"
+}
