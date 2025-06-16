@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "566433648370",
+    "project_id": "washamproject",
+    "storage_bucket": "washamproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566433648370:android:6b3a4b00236f2f11eb4a6b",
+        "android_client_info": {
+          "package_name": "com.example.washamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566433648370-pt52k5s8m3u0g3gsu22rmvv0s0a32gga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwFb_xB4aq2jkjH2A_bdr9RoGAWD8LZb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566433648370-pt52k5s8m3u0g3gsu22rmvv0s0a32gga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566433648370-6k7vcvn23pu1aj7kbspflapi0ai6l44s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterwasham"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
